@@ -13,8 +13,8 @@ class DataAccess:
         self.embeddings_dict = {}
                 
     # e.g. "20201101-american-films", "Pirates_of_Tortuga.txt"
-    def read_source_text(self, category_id, filename, print_filepath = True):
-        filepath = self.source_texts_directory + category_id + "/" + filename
+    def read_source_text(self, directory, filename, print_filepath = True):
+        filepath = self.source_texts_directory + directory + "/" + filename
         if print_filepath:
             print(filepath)
         file = open(filepath, "r") 
