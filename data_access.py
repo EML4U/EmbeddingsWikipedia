@@ -47,3 +47,37 @@ class DataAccess:
         if print_info:
             print(embeddings.shape, type(embeddings))
         return embeddings
+
+
+# Examples
+
+# Example: Imports and definitions
+if False:
+    import data_access
+    source_texts_directory = "/home/eml4u/EML4U/data/corpus/2021-02-10-wikipedia-texts/"
+    embeddings_directory  = "/home/eml4u/EML4U/data/wikipedia-embeddings/"
+    data_accessor = data_access.DataAccess(source_texts_directory, embeddings_directory)
+    
+    id_a = "20100408"
+    id_british  = "british-films"
+    id_british_a  = id_a + "-" + id_british
+    
+# Example: Read source text
+if False:
+    print(len(data_accessor.read_source_text(id_british_a, "Monty_Python_s_The_Meaning_of_Life.txt")))
+    print()
+    
+# Example: Look up index
+if False:
+    print(data_accessor.get_source_text_filename(id_british, 189))
+    print()
+    
+# Example: Look up filename
+if False:
+    print(data_accessor.get_source_text_index(id_british, "Monty_Python_s_The_Meaning_of_Life.txt"))
+    print()
+    
+# Example: Load embeddings
+if False:
+    print(data_accessor.load_embeddings(id_british_a).shape);
+    print()
