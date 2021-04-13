@@ -20,7 +20,7 @@
   ([nbviewer 50edd35](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/50edd35472564337a746f37b0663044b9fc60c3d/cosine-similarity-wikipedia-b.ipynb))  
   Comparison of cosine-similarity and difference-value, data investigation
 - [cosine-similarity-wikipedia-c.ipynb](cosine-similarity-wikipedia-c.ipynb)
-  ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/cosine-similarity-wikipedia-c.ipynb))  
+  ([nbviewer 232643b](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/232643bb43c8a3dc25f9dc2777942ad962017a3d/cosine-similarity-wikipedia-c.ipynb))  
   Further cosine-similarity tests
 
 
