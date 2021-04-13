@@ -12,10 +12,13 @@
   Jupyter notebook for computation of embeddings
 - [cosine-similarity-wikipedia-a.ipynb](cosine-similarity-wikipedia-a.ipynb)
   ([nbviewer 6e2d52b](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/6e2d52b3d3621a5c800eeb989455614aedae2b82/cosine-similarity-wikipedia-a.ipynb))  
-  Cosine similarity tests
+  Cosine similarity of means of embeddings
 - [data_access.ipynb](data_access.ipynb)
   ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/data_access.ipynb))  
   Access of pre-computed data (Jupyter version of data_access.py)
+- [cosine-similarity-wikipedia-b.ipynb](cosine-similarity-wikipedia-b.ipynb)
+  ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/cosine-similarity-wikipedia-b.ipynb))  
+  Comparison of cosine-similarity and difference-value, data investigation
 
 ## Credits
 
