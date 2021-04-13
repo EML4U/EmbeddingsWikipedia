@@ -7,9 +7,15 @@
 
 ## Contents
 
-- [embeddings-wikipedia.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/embeddings-wikipedia.ipynb) Jupyter notebook for computation of embeddings
-- [cosine-similarity-wikipedia-a.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/cosine-similarity-wikipedia-a.ipynb) Cosine similarity tests
-- [data_access.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/data_access.ipynb) Jupyter version of data_access.py
+- [embeddings-wikipedia.ipynb](embeddings-wikipedia.ipynb)
+  ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/embeddings-wikipedia.ipynb))  
+  Jupyter notebook for computation of embeddings
+- [cosine-similarity-wikipedia-a.ipynb](cosine-similarity-wikipedia-a.ipynb)
+  ([nbviewer 6e2d52b](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/6e2d52b3d3621a5c800eeb989455614aedae2b82/cosine-similarity-wikipedia-a.ipynb))  
+  Cosine similarity tests
+- [data_access.ipynb](data_access.ipynb)
+  ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/data_access.ipynb))  
+  Access of pre-computed data (Jupyter version of data_access.py)
 
 ## Credits
 
