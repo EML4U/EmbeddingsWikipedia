@@ -17,8 +17,10 @@
   ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/data_access.ipynb))  
   Access of pre-computed data (Jupyter version of data_access.py)
 - [cosine-similarity-wikipedia-b.ipynb](cosine-similarity-wikipedia-b.ipynb)
-  ([nbviewer](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/cosine-similarity-wikipedia-b.ipynb))  
+  ([nbviewer 50edd35](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/50edd35472564337a746f37b0663044b9fc60c3d/cosine-similarity-wikipedia-b.ipynb))  
   Comparison of cosine-similarity and difference-value, data investigation
+
+50edd35
 
 ## Credits
 
