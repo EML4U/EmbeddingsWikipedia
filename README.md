@@ -9,7 +9,6 @@
 
 - [embeddings-wikipedia.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/embeddings-wikipedia.ipynb) Jupyter notebook for computation of embeddings
 - [cosine-similarity-wikipedia-a.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/cosine-similarity-wikipedia-a.ipynb) Cosine similarity tests
-- [cosine-similarity-wikipedia-b.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/cosine-similarity-wikipedia-b.ipynb) Cosine similarity tests
 - [data_access.ipynb](https://nbviewer.jupyter.org/github/EML4U/EmbeddingsWikipedia/blob/main/data_access.ipynb) Jupyter version of data_access.py
 
 ## Credits
